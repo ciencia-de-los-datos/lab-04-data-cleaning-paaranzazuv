@@ -81,7 +81,7 @@ def clean_data():
 
 # # Imprimir DataFrame con fechas limpias
     
-    p
+    
 
      #
     # Inserte su código aquí
